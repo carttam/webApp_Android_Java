@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">webApp</string>
+    <string name="nav_open">open nav</string>
+    <string name="nav_close">close nav</string>
+    <string name="sort_by_all">All</string>
+    <string name="sort_by_price">Sort Items by Price</string>
+    <string name="sort_by_category">Sort Items by Category</string>
+</resources>
